@@ -33,7 +33,7 @@
 
 1. 克隆本仓库：
 ```bash
-git clone https://github.com/YOUR_USERNAME/cybersecurity-expert.git
+git clone https://github.com/LZMW/cybersecurity-expert.git
 ```
 
 2. 将 `skill.md` 复制到你的 Claude Code skills 目录：
@@ -140,7 +140,7 @@ copy cybersecurity-expert\skill.md %USERPROFILE%\.claude\skills\cybersecurity-ex
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/cybersecurity-expert.git
+git clone https://github.com/LZMW/cybersecurity-expert.git
 ```
 
 2. Copy `skill.md` to your Claude Code skills directory:
@@ -180,7 +180,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Disclaimer
 
-This tool is intended for authorized security testing, defensive security, CTF challenges, and educational purposes only. Destructive techniques, DoS attacks, mass targeting, supply chain compromise, or detection evasion for malicious purposes are prohibited.
+This tool is intended for authorized security testing, defensive security, CTF challenges, and educational purposes only. Destructive techniques, DoS attacks, mass targeting, supply chain compromise, or detection evasion for malicious purposes is prohibited.
 
 ---
 

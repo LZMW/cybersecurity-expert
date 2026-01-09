@@ -1,6 +1,6 @@
 # 🛡️ Cybersecurity Expert
 
-![Version](https://img.shields.io/badge/version-v1.2-red)
+![Version](https://img.shields.io/badge/version-v2.0.0-red)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Claude](https://img.shields.io/badge/Claude_Code-Compatible-green)
 
@@ -120,7 +120,8 @@ copy cybersecurity-expert\SKILL.md %USERPROFILE%\.claude\skills\cybersecurity-ex
 
 ### 版本历史
 
-- **v1.2** (2025-01-09): 多专家协作模式增强
+- **v2.0.0** (2025-01-09): 重大重构 - 多专家协作审计架构、威胁模式知识库、结构化审计思维链
+- **v1.2** (2025-01-07): 多专家协作模式增强
 - **v1.1** (2025-01-07): 工具能力增强
 - **v1.0** (2025-01-07): 初始版本
 

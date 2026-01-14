@@ -14,9 +14,7 @@ Professional network security audit skill for Claude Code with zero-tolerance po
 - **Threat Intelligence** - Support querying latest CVE vulnerabilities
 - **Zero Tolerance Policy** - Zero tolerance for all security risks
 
-## Quick Start
 
-`ash
 # 1. Clone repository
 git clone https://github.com/LZMW/cybersecurity-expert.git
 

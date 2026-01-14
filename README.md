@@ -15,20 +15,7 @@ Professional network security audit skill for Claude Code with zero-tolerance po
 - **Zero Tolerance Policy** - Zero tolerance for all security risks
 
 
-# 1. Clone repository
-git clone https://github.com/LZMW/cybersecurity-expert.git
 
-# 2. Copy skill files to Claude Code skills directory
-# macOS/Linux
-cp cybersecurity-expert/SKILL.md ~/.claude/skills/cybersecurity-expert/
-cp cybersecurity-expert/references/threat_patterns.md ~/.claude/skills/cybersecurity-expert/references/
-
-# Windows
-copy cybersecurity-expert\SKILL.md %USERPROFILE%\.claude\skills\cybersecurity-expert\
-copy cybersecurity-expert\references\threat_patterns.md %USERPROFILE%\.claude\skills\cybersecurity-expert\references\
-
-# 3. Restart Claude Code
-`
 
 ## Usage
 
